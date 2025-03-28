@@ -9,12 +9,15 @@
 
 ## 최종 실행
 1. 처음 화면
+
 ![image](https://github.com/user-attachments/assets/ecfa65c3-3582-4717-89fc-b0efa2216b99)
 
 2. playing
+
 ![image](https://github.com/user-attachments/assets/8d1a229b-cd04-4d64-8839-560ddc09f065)
 
 ![image](https://github.com/user-attachments/assets/9a5a780a-4600-4123-a301-64e03f77401f)
 
 3. game over
+
 ![image](https://github.com/user-attachments/assets/d33ba34e-fb0d-4f43-8386-e15a282dea6b)
