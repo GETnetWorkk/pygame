@@ -7,7 +7,8 @@
 
 2. COPILOT EDITS로 게임 제작
 
-![image](https://github.com/user-attachments/assets/5e4cf64a-daf6-4d59-aa77-0ca72033caa3)
+![image](https://github.com/user-attachments/assets/476c8aa5-488c-4811-9a1a-fa8b52ed68ea)
+
 
 ## 최종 실행
 1. 처음 화면
