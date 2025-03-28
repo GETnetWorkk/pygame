@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/2d014ed5-02fa-47a3-8e4f-6a4f7d35b58f)
 
-3. COPILOT EDITS로 게임 제작
+2. COPILOT EDITS로 게임 제작
 
 ![image](https://github.com/user-attachments/assets/5e4cf64a-daf6-4d59-aa77-0ca72033caa3)
 
