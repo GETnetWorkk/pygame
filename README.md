@@ -18,7 +18,7 @@
 
 2. playing
 
-![image](https://github.com/user-attachments/assets/8d1a229b-cd04-4d64-8839-560ddc09f065)
+![image](https://github.com/user-attachments/assets/6e8b6f3f-0650-4efc-9255-917f0ad9744e)
 
 ![image](https://github.com/user-attachments/assets/279ea893-138e-4900-a9cb-fdb16dfc0b96)
 
